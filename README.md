@@ -46,3 +46,6 @@ optimize shipping strategies and improve customer satisfaction.
 - SQL script containing analysis queries
 - README documentation
 
+- Authhor
+- **Kokku Priyanka**
+
